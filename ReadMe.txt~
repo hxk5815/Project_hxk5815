@@ -1,0 +1,9 @@
+Executing Instructions:
+
+450G_hxk5815$ make all
+
+/* BUILD SUCCESS */ 
+
+450G_hxk5815$make run
+
+/* Output comes */
